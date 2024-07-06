@@ -9,7 +9,7 @@
 <body>
 	<div class="form">
 		<form action="<?= base_url('siswa/cetak') ?>" method="post" class="form_siswa">
-			<h1>TUGA WP2</h1>
+			<h1>TUGAS WP2</h1>
 			<label for="nama">Nama Siswa : </label>
 			<input type="text" name="nama" id="nama" required>
 			<label for="nis">NIS : </label>
